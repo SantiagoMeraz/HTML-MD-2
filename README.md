@@ -1,12 +1,14 @@
 # HTML-MD
 
-##introduccion
+## introduccion
 
 HTML es el lenguaje de marcado estándar para crear páginas web, nacido en 1990 de la mano de Tim Berners-Lee. Su función principal es estructurar información mediante etiquetas, organizando el contenido en un encabezado de metadatos (head) y un cuerpo visible (body). Tras décadas de evolución, la versión actual es HTML5, que permite integrar multimedia y aplicaciones de forma universal y semántica.
 
 ## Sintesis
 
 HTML (HyperText Markup Language) es el lenguaje estándar reconocido mundialmente para la creación de páginas web. Se define como un lenguaje de marcado, lo que significa que utiliza etiquetas para codificar información sobre la estructura o presentación del texto. A diferencia de los lenguajes de programación, carece de funciones aritméticas o variables.  
+### Evolución Histórica
+
 El desarrollo de HTML ha sido marcado por hitos clave y la colaboración de diversos organismos:
 
 Orígenes (1990-1991): Tim Berners-Lee propuso el sistema de hipertexto en el CERN, publicando el primer documento formal, "HTML Tags", en 1991. 
@@ -22,4 +24,12 @@ HTML5 y la Plataforma Web Abierta: Tras un periodo centrado en XHTML, surge el g
 Anatomía de un elemento: Se compone de una etiqueta de apertura (donde pueden incluirse atributos), el contenido y una etiqueta de cierre.  
 Partes del documento: Todo archivo comienza con el <!DOCTYPE html> seguido de la raíz <html>. Se divide en el <head> (metadatos, estilos, SEO) y el <body> (contenido visible). 
 Componentes de la interfaz: El diseño moderno utiliza etiquetas semánticas para definir secciones como el encabezado (<header>), barra de navegación (<nav>), contenido principal (<main>), artículos (<article>), barras laterales (<aside>) y pie de página (<footer>).
-Además de texto, HTML soporta recursos multimedia (imágenes, audio, video), contenido embebido mediante <iframe> u <object>, y la creación de formularios dinámicos para la interacción del usuario. 
+Además de texto, HTML soporta recursos multimedia (imágenes, audio, video), contenido embebido mediante <iframe> u <object>, y la creación de formularios dinámicos para la interacción del usuario.
+
+# Reflexion
+
+La trayectoria de HTML revela que la web ha pasado de ser un simple visor de documentos científicos en el CERN a convertirse en una plataforma universal y sofisticada. El paso hacia HTML5 no solo simplificó la tecnología al eliminar la necesidad de complementos externos para multimedia, sino que humanizó el código a través de la semántica. Al asignar etiquetas con significado específico a cada parte de una página, el lenguaje garantiza que la información no solo sea visual, sino también accesible y organizada para el futuro digital.  
+
+# Conclusión
+
+En conclusión, HTML es el pilar esencial de la web que, mediante una estructura de etiquetas y una evolución constante hacia la semántica, garantiza que el contenido digital sea accesible, organizado y universal para cualquier usuario y dispositivo.
